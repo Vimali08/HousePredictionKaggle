@@ -3,7 +3,7 @@
 This project showcases a **House Price Prediction** model developed for a Kaggle competition.  
 The goal was to predict house prices based on various features such as area, number of rooms, location, etc.  
 
-![CSV Preview](path-to-your-image.png)
+![CSV Preview](PredictedPrice.png)
 
 ---
 
